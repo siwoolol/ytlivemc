@@ -1,7 +1,8 @@
-# SiwooClub Season 2
-**This Version is Made With Paper API. We recommend running the plugin with the Paper software.** <br>
-SiwooClub SMP Plugin repo. <br>
-made by siwoo
+# YTLiveMC
 
-# Announcements
-From this season, [SiwooAC](https://github.com/siwoolol/siwooac) will be seperated for performance issues.
+**This Version is Made With Paper API. We recommend running the plugin with the Paper software.** <br>
+> made by siwoolol
+ 
+# How to Use
+
+Simply Put the plugin in your bukkit/paper/spigot whatever server's plugins directory and restart your server!
